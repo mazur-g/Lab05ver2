@@ -1,0 +1,6 @@
+#proto files
+*.proto
+#pyc files
+*.pyc
+# py cache
+./__pycache__

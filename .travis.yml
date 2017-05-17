@@ -1,0 +1,6 @@
+language: python
+python: "3.6"
+install:
+  - python -m pip install --upgrade pip
+script:
+  python testRunner.py
